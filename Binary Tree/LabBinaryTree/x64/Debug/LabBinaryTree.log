@@ -1,0 +1,11 @@
+﻿  testBNode.cpp
+C:\Users\Olson\Documents\GitHub\CSE-232\Binary Tree\testBNode.h(87,20): warning C4312: 'type cast': conversion from 'unsigned int' to 'BNode<int> *' of greater size
+C:\Users\Olson\Documents\GitHub\CSE-232\Binary Tree\testBNode.h(88,20): warning C4312: 'type cast': conversion from 'unsigned int' to 'BNode<int> *' of greater size
+C:\Users\Olson\Documents\GitHub\CSE-232\Binary Tree\testBNode.h(89,20): warning C4312: 'type cast': conversion from 'unsigned int' to 'BNode<int> *' of greater size
+C:\Users\Olson\Documents\GitHub\CSE-232\Binary Tree\testBNode.h(107,20): warning C4312: 'type cast': conversion from 'unsigned int' to 'BNode<int> *' of greater size
+C:\Users\Olson\Documents\GitHub\CSE-232\Binary Tree\testBNode.h(108,20): warning C4312: 'type cast': conversion from 'unsigned int' to 'BNode<int> *' of greater size
+C:\Users\Olson\Documents\GitHub\CSE-232\Binary Tree\testBNode.h(109,20): warning C4312: 'type cast': conversion from 'unsigned int' to 'BNode<int> *' of greater size
+C:\Users\Olson\Documents\GitHub\CSE-232\Binary Tree\testBNode.h(129,20): warning C4312: 'type cast': conversion from 'unsigned int' to 'BNode<int> *' of greater size
+C:\Users\Olson\Documents\GitHub\CSE-232\Binary Tree\testBNode.h(130,20): warning C4312: 'type cast': conversion from 'unsigned int' to 'BNode<int> *' of greater size
+C:\Users\Olson\Documents\GitHub\CSE-232\Binary Tree\testBNode.h(131,20): warning C4312: 'type cast': conversion from 'unsigned int' to 'BNode<int> *' of greater size
+  LabBinaryTree.vcxproj -> C:\Users\Olson\Documents\GitHub\CSE-232\Binary Tree\x64\Debug\LabBinaryTree.exe
