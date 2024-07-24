@@ -1,0 +1,4 @@
+﻿  testBST.cpp
+C:\Users\Olson\Documents\GitHub\CSE-232\Binary Search Tree\101\testBST.h(133,18): warning C4312: 'type cast': conversion from 'unsigned int' to 'custom::BST<Spy>::BNode *' of greater size
+C:\Users\Olson\Documents\GitHub\CSE-232\Binary Search Tree\101\testBST.h(158,22): warning C4312: 'type cast': conversion from 'unsigned int' to 'custom::BST<Spy>::BNode *' of greater size
+  LabBST.vcxproj -> C:\Users\Olson\Documents\GitHub\CSE-232\Binary Search Tree\101\x64\Debug\LabBST.exe

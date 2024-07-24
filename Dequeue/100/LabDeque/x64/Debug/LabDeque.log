@@ -1,0 +1,12 @@
+﻿  testDeque.cpp
+C:\Users\Olson\Documents\GitHub\CSE-232\Dequeue\100\testDeque.h(161,16): warning C4312: 'type cast': conversion from 'unsigned int' to 'int *' of greater size
+C:\Users\Olson\Documents\GitHub\CSE-232\Dequeue\100\deque.h(74,30): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Olson\Documents\GitHub\CSE-232\Dequeue\100\deque.h(244,45): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Olson\Documents\GitHub\CSE-232\Dequeue\100\deque.h(282,38): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Olson\Documents\GitHub\CSE-232\Dequeue\100\deque.h(299,26): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Olson\Documents\GitHub\CSE-232\Dequeue\100\deque.h(340,56): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Olson\Documents\GitHub\CSE-232\Dequeue\100\deque.h(341,43): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Olson\Documents\GitHub\CSE-232\Dequeue\100\deque.h(329,56): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Olson\Documents\GitHub\CSE-232\Dequeue\100\deque.h(330,19): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Olson\Documents\GitHub\CSE-232\Dequeue\100\deque.h(355,36): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  LabDeque.vcxproj -> C:\Users\Olson\Documents\GitHub\CSE-232\Dequeue\100\x64\Debug\LabDeque.exe

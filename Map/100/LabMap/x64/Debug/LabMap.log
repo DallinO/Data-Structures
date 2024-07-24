@@ -1,0 +1,16 @@
+﻿  testMap.cpp
+C:\Users\Olson\Documents\GitHub\CSE-232\Map\100\testBST.h(124,18): warning C4312: 'type cast': conversion from 'unsigned int' to 'custom::BST<Spy>::BNode *' of greater size
+C:\Users\Olson\Documents\GitHub\CSE-232\Map\100\testBST.h(149,22): warning C4312: 'type cast': conversion from 'unsigned int' to 'custom::BST<Spy>::BNode *' of greater size
+C:\Users\Olson\Documents\GitHub\CSE-232\Map\100\map.h(183,20): warning C4930: 'custom::pair<K,V,std::less<std::string>> Value(void)': prototyped function not called (was a variable definition intended?)
+C:\Users\Olson\Documents\GitHub\CSE-232\Map\100\map.h(183,20): warning C4930:         with
+C:\Users\Olson\Documents\GitHub\CSE-232\Map\100\map.h(183,20): warning C4930:         [
+C:\Users\Olson\Documents\GitHub\CSE-232\Map\100\map.h(183,20): warning C4930:             K=std::string,
+C:\Users\Olson\Documents\GitHub\CSE-232\Map\100\map.h(183,20): warning C4930:             V=int
+C:\Users\Olson\Documents\GitHub\CSE-232\Map\100\map.h(183,20): warning C4930:         ]
+C:\Users\Olson\Documents\GitHub\CSE-232\Map\100\map.h(153,20): warning C4930: 'custom::pair<K,V,std::less<std::string>> Value(void)': prototyped function not called (was a variable definition intended?)
+C:\Users\Olson\Documents\GitHub\CSE-232\Map\100\map.h(153,20): warning C4930:         with
+C:\Users\Olson\Documents\GitHub\CSE-232\Map\100\map.h(153,20): warning C4930:         [
+C:\Users\Olson\Documents\GitHub\CSE-232\Map\100\map.h(153,20): warning C4930:             K=std::string,
+C:\Users\Olson\Documents\GitHub\CSE-232\Map\100\map.h(153,20): warning C4930:             V=int
+C:\Users\Olson\Documents\GitHub\CSE-232\Map\100\map.h(153,20): warning C4930:         ]
+  LabMap.vcxproj -> C:\Users\Olson\Documents\GitHub\CSE-232\Map\100\x64\Debug\LabMap.exe

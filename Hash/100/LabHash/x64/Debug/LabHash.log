@@ -1,0 +1,10 @@
+﻿  testHash.cpp
+C:\Users\Olson\Documents\GitHub\CSE-232\Hash\100\testList.h(135,17): warning C4312: 'type cast': conversion from 'unsigned int' to 'custom::list<int>::Node *' of greater size
+C:\Users\Olson\Documents\GitHub\CSE-232\Hash\100\testList.h(136,17): warning C4312: 'type cast': conversion from 'unsigned int' to 'custom::list<int>::Node *' of greater size
+C:\Users\Olson\Documents\GitHub\CSE-232\Hash\100\testList.h(149,17): warning C4312: 'type cast': conversion from 'unsigned int' to 'custom::list<int>::Node *' of greater size
+C:\Users\Olson\Documents\GitHub\CSE-232\Hash\100\testList.h(150,17): warning C4312: 'type cast': conversion from 'unsigned int' to 'custom::list<int>::Node *' of greater size
+C:\Users\Olson\Documents\GitHub\CSE-232\Hash\100\testList.h(163,17): warning C4312: 'type cast': conversion from 'unsigned int' to 'custom::list<int>::Node *' of greater size
+C:\Users\Olson\Documents\GitHub\CSE-232\Hash\100\testList.h(164,17): warning C4312: 'type cast': conversion from 'unsigned int' to 'custom::list<int>::Node *' of greater size
+C:\Users\Olson\Documents\GitHub\CSE-232\Hash\100\testList.h(202,17): warning C4312: 'type cast': conversion from 'unsigned int' to 'custom::list<int>::Node *' of greater size
+C:\Users\Olson\Documents\GitHub\CSE-232\Hash\100\testList.h(203,17): warning C4312: 'type cast': conversion from 'unsigned int' to 'custom::list<int>::Node *' of greater size
+  LabHash.vcxproj -> C:\Users\Olson\Documents\GitHub\CSE-232\Hash\100\x64\Debug\LabHash.exe
